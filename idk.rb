@@ -7,6 +7,6 @@ class Idk < Formula
     bottle :unneeded
   
     def install
-        bin.install "target/release/idk"
+        bin.install "idk"
     end
   end
