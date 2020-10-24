@@ -7,6 +7,6 @@ class Idk < Formula
     bottle :unneeded
   
     def install
-        bin.install "idk"
+        bin.install "Vatyx/idk"
     end
   end
